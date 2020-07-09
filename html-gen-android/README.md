@@ -1,0 +1,1 @@
+## HTML Generator - extension for Android 5+ platform.

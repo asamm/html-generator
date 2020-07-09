@@ -1,0 +1,4 @@
+rootProject.name = "html-generator"
+include ':html-gen-android'
+include ':html-gen-core'
+include ':sample'
